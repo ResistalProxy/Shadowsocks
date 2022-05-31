@@ -1,21 +1,5 @@
 [
     {
-        "server": "185.99.3.102",
-        "server_port": 49339,
-        "password": "suucSeVLmt6PQKAP77NtGw9x",
-        "method": "aes-256-gcm",
-        "remarks": "Bosnia and Herzegovina [BA 1] @ResistalProxy",
-        "timeout": 5
-    },
-    {
-        "server": "185.99.3.102",
-        "server_port": 43893,
-        "password": "YyCBeDdYX4cadHpCkkmdJLq8",
-        "method": "aes-256-gcm",
-        "remarks": "Bosnia and Herzegovina [BA 2] @ResistalProxy",
-        "timeout": 5
-    },
-    {
         "server": "134.195.196.150",
         "server_port": 2376,
         "password": "faBAoD54k87UJG7",
@@ -45,6 +29,22 @@
         "password": "G!yBwPWH3Vao",
         "method": "chacha20-ietf-poly1305",
         "remarks": "Canada [CA 4] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "161.97.66.81",
+        "server_port": 443,
+        "password": "E4gyHkKwJGyG",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Germany [DE 1] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "217.70.188.48",
+        "server_port": 443,
+        "password": "I6U7lGQf2STa",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "France [FR 1] @ResistalProxy",
         "timeout": 5
     },
     {
@@ -101,6 +101,14 @@
         "password": "pKEW8JPByTVTLtM",
         "method": "aes-256-gcm",
         "remarks": "United Kingdom [GB 7] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "77.83.247.20",
+        "server_port": 443,
+        "password": "ihtUBnhX69ji",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Israel [IL 1] @ResistalProxy",
         "timeout": 5
     },
     {
