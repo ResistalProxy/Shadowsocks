@@ -40,11 +40,66 @@
         "timeout": 5
     },
     {
+        "server": "161.97.68.139",
+        "server_port": 443,
+        "password": "94dvoW0TdKRq",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Germany [DE 2] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "161.97.66.81",
+        "server_port": 443,
+        "password": "E4gyHkKwJGyG",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Germany [DE 3] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "91.132.197.153",
+        "server_port": 443,
+        "password": "SDWRMEicdVAJ",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Finland [FI 1] @ResistalProxy"
+    },
+    {
         "server": "217.70.188.48",
         "server_port": 443,
         "password": "I6U7lGQf2STa",
         "method": "chacha20-ietf-poly1305",
         "remarks": "France [FR 1] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "155.133.130.93",
+        "server_port": 443,
+        "password": "uOaNBB7dlKXH",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "France [FR 2] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "155.133.131.114",
+        "server_port": 443,
+        "password": "joBeTi5tDzKo",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "France [FR 3] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "217.70.188.48",
+        "server_port": 443,
+        "password": "I6U7lGQf2STa",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "France [FR 4] @ResistalProxy",
+        "timeout": 5
+    },
+    {
+        "server": "46.226.108.25",
+        "server_port": 443,
+        "password": "4HjnePliOMqo",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "France [FR 5] @ResistalProxy",
         "timeout": 5
     },
     {
