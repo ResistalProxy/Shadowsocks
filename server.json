@@ -222,5 +222,12 @@
         "password": "KixLvKzwjekG00rm",
         "method": "aes-256-gcm",
         "remarks": "United States [US 6] @ResistalProxy"
+    },
+    {
+        "server": "167.88.63.82",
+        "server_port": 8091,
+        "password": "PCnnH6SQSnfoS27",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 7] @ResistalProxy"
     }
 ]
