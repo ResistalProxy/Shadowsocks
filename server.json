@@ -154,6 +154,13 @@
         "remarks": "Japan [JP 1] @ResistalProxy"
     },
     {
+        "server": "185.160.24.217",
+        "server_port": 805,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Japan [JP 2] @ResistalProxy"
+    },
+    {
         "server": "194.34.239.105",
         "server_port": 18760,
         "password": "hg49$WH8943g3",
