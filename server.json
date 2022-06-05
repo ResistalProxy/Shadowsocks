@@ -175,6 +175,20 @@
         "remarks": "Japan [JP 2] @ResistalProxy"
     },
     {
+        "server": "85.208.108.61",
+        "server_port": 2375,
+        "password": "faBAoD54k87UJG7",
+        "method": "aes-256-gcm",
+        "remarks": "Japan [JP 3] @ResistalProxy"
+    },
+    {
+        "server": "85.208.108.62",
+        "server_port": 8008,
+        "password": "XKFKl2rULjIp74",
+        "method": "aes-256-gcm",
+        "remarks": "Japan [JP 4] @ResistalProxy"
+    },
+    {
         "server": "178.239.173.23",
         "server_port": 18760,
         "password": "hg49$WH8943g3",
