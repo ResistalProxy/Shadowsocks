@@ -1,5 +1,12 @@
 [
     {
+        "server": "217.138.193.6",
+        "server_port": 812,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "United Arab Emirates [AE 1] @ResistalProxy"
+    },
+    {
         "server": "134.195.196.150",
         "server_port": 2376,
         "password": "faBAoD54k87UJG7",
