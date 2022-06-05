@@ -140,6 +140,13 @@
         "remarks": "United Kingdom [GB 7] @ResistalProxy"
     },
     {
+        "server": "62.216.92.167",
+        "server_port": 806,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Hong Kong [HK 1] @ResistalProxy"
+    },
+    {
         "server": "77.83.247.20",
         "server_port": 443,
         "password": "ihtUBnhX69ji",
@@ -159,6 +166,20 @@
         "password": "G!yBwPWH3Vao",
         "method": "chacha20-ietf-poly1305",
         "remarks": "Japan [JP 2] @ResistalProxy"
+    },
+    {
+        "server": "178.239.173.23",
+        "server_port": 18760,
+        "password": "hg49$WH8943g3",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Netherlands [NL 1] @ResistalProxy"
+    },
+    {
+        "server": "185.233.150.6",
+        "server_port": 18760,
+        "password": "hg49$WH8943g3",
+        "method": "aes-256-gcm",
+        "remarks": "Romania [RO 1] @ResistalProxy"
     },
     {
         "server": "194.34.239.105",
@@ -182,11 +203,39 @@
         "remarks": "Russian Federation [RU 3] @ResistalProxy"
     },
     {
+        "server": "194.34.239.105",
+        "server_port": 18760,
+        "password": "hg49$WH8943g3",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Russian Federation [RU 4] @ResistalProxy"
+    },
+    {
+        "server": "217.197.161.136",
+        "server_port": 812,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Singapore [SG 1] @ResistalProxy"
+    },
+    {
         "server": "212.68.55.11",
         "server_port": 18760,
         "password": "hg49$WH8943g3",
         "method": "aes-256-gcm",
         "remarks": "Turkey [TR 1] @ResistalProxy"
+    },
+    {
+        "server": "176.103.61.162",
+        "server_port": 444,
+        "password": "IjBemsAg",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Ukraine [UA 1] @ResistalProxy"
+    },
+    {
+        "server": "77.120.115.235",
+        "server_port": 444,
+        "password": "Fowwipho",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Ukraine [UA 2] @ResistalProxy"
     },
     {
         "server": "169.197.142.99",
