@@ -14,6 +14,20 @@
         "remarks": "Canada [CA 2] @ResistalProxy"
     },
     {
+        "server": "134.195.196.107",
+        "server_port": 8118,
+        "password": "cdBIDV42DCwnfIN",
+        "method": "aes-256-gcm",
+        "remarks": "Canada [CA 3] @ResistalProxy"
+    },
+    {
+        "server": "134.195.196.128",
+        "server_port": 3306,
+        "password": "Y6R9pAtvxxzmGC",
+        "method": "aes-256-gcm",
+        "remarks": "Canada [CA 4] @ResistalProxy"
+    },
+    {
         "server": "161.97.66.81",
         "server_port": 443,
         "password": "E4gyHkKwJGyG",
@@ -77,6 +91,27 @@
         "remarks": "France [FR 5] @ResistalProxy"
     },
     {
+        "server": "172.99.190.149",
+        "server_port": 4444,
+        "password": "pKEW8JPByTVTLtM",
+        "method": "aes-256-gcm",
+        "remarks": "United Kingdom [GB 1] @ResistalProxy"
+    },
+    {
+        "server": "82.145.41.125",
+        "server_port": 8881,
+        "password": "kDWvXYZoTBcGkC4",
+        "method": "aes-256-gcm",
+        "remarks": "United Kingdom [GB 2] @ResistalProxy"
+    },
+    {
+        "server": "212.38.189.174",
+        "server_port": 8091,
+        "password": "PCnnH6SQSnfoS27",
+        "method": "aes-256-gcm",
+        "remarks": "United Kingdom [GB 3] @ResistalProxy"
+    },
+    {
         "server": "62.216.92.167",
         "server_port": 806,
         "password": "G!yBwPWH3Vao",
@@ -124,6 +159,13 @@
         "password": "hg49$WH8943g3",
         "method": "chacha20-ietf-poly1305",
         "remarks": "Netherlands [NL 1] @ResistalProxy"
+    },
+    {
+        "server": "194.15.196.78",
+        "server_port": 2375,
+        "password": "faBAoD54k87UJG7",
+        "method": "aes-256-gcm",
+        "remarks": "Poland [PL 1] @ResistalProxy"
     },
     {
         "server": "185.233.150.6",
