@@ -1,5 +1,19 @@
 [
     {
+        "server": "176.97.67.103",
+        "server_port": 444,
+        "password": "shwozEjWey",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "United Arab Emirates [AE 1] @ResistalProxy"
+    },
+    {
+        "server": "109.169.72.249",
+        "server_port": 808,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "United Arab Emirates [AE 2] @ResistalProxy"
+    },
+    {
         "server": "51.161.118.38",
         "server_port": 811,
         "password": "G!yBwPWH3Vao",
@@ -112,6 +126,13 @@
         "remarks": "Hong Kong [HK 1] @ResistalProxy"
     },
     {
+        "server": "148.66.56.99",
+        "server_port": 804,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Hong Kong [HK 2] @ResistalProxy"
+    },
+    {
         "server": "77.83.247.20",
         "server_port": 443,
         "password": "ihtUBnhX69ji",
@@ -201,6 +222,13 @@
         "password": "G!yBwPWH3Vao",
         "method": "chacha20-ietf-poly1305",
         "remarks": "Singapore [SG 1] @ResistalProxy"
+    },
+    {
+        "server": "81.90.189.152",
+        "server_port": 805,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Singapore [SG 2] @ResistalProxy"
     },
     {
         "server": "212.68.55.11",
