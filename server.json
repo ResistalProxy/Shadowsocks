@@ -98,6 +98,13 @@
         "remarks": "France [FR 5] @ResistalProxy"
     },
     {
+        "server": "62.210.113.98",
+        "server_port": 6679,
+        "password": "TEzjfAYq2IjtuoS",
+        "method": "aes-256-gcm",
+        "remarks": "France [FR 6] @ResistalProxy"
+    },
+    {
         "server": "195.12.49.82",
         "server_port": 807,
         "password": "G!yBwPWH3Vao",
@@ -266,9 +273,9 @@
         "remarks": "Ukraine [UA 2] @ResistalProxy"
     },
     {
-        "server": "38.64.138.145",
-        "server_port": 443,
-        "password": "pKEW8JPByTVTLtM",
+        "server": "164.92.99.255",
+        "server_port": 4649,
+        "password": "3f411e87-3e93-4f23-bc22-263a748bc8c5",
         "method": "aes-256-gcm",
         "remarks": "United States [US 1] @ResistalProxy"
     },
@@ -280,9 +287,9 @@
         "remarks": "United States [US 2] @ResistalProxy"
     },
     {
-        "server": "193.239.87.134",
-        "server_port": 812,
-        "password": "G!yBwPWH3Vao",
+        "server": "164.92.107.59",
+        "server_port": 1645,
+        "password": "3f411e87-3e93-4f23-bc22-263a748bc8c5",
         "method": "chacha20-ietf-poly1305",
         "remarks": "United States [US 3] @ResistalProxy"
     },
