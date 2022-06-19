@@ -14,18 +14,46 @@
         "remarks": "Canada [CA 1] @ResistalProxy"
     },
     {
-        "server": "134.195.196.227",
-        "server_port": 7307,
+        "server": "134.195.196.107",
+        "server_port": 7306,
         "password": "FoOiGlkAA9yPEGP",
         "method": "aes-256-gcm",
         "remarks": "Canada [CA 2] @ResistalProxy"
     },
     {
-        "server": "134.195.196.200",
+        "server": "134.195.196.19",
         "server_port": 3306,
         "password": "Y6R9pAtvxxzmGC",
         "method": "aes-256-gcm",
         "remarks": "Canada [CA 3] @ResistalProxy"
+    },
+    {
+        "server": "zh01lv5ca05.feiguayun.xyz",
+        "server_port": 37087,
+        "password": "6f8ebe83-8910-4106-9dc4-18a41cc20ed4",
+        "method": "aes-256-gcm",
+        "remarks": "Canada [CA 4] @ResistalProxy"
+    },
+    {
+        "server": "85.114.138.92",
+        "server_port": 809,
+        "password": "G!yBwPWH3Vao",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Germany [DE 1] @ResistalProxy"
+    },
+    {
+        "server": "zh01lv5ge01.feiguayun.xyz",
+        "server_port": 36087,
+        "password": "6f8ebe83-8910-4106-9dc4-18a41cc20ed4",
+        "method": "aes-256-gcm",
+        "remarks": "Germany [DE 2] @ResistalProxy"
+    },
+    {
+        "server": "zh01lv5ge02.feiguayun.xyz",
+        "server_port": 36087,
+        "password": "6f8ebe83-8910-4106-9dc4-18a41cc20ed4",
+        "method": "aes-256-gcm",
+        "remarks": "Germany [DE 3] @ResistalProxy"
     },
     {
         "server": "91.132.197.153",
@@ -70,18 +98,25 @@
         "remarks": "France [FR 5] @ResistalProxy"
     },
     {
-        "server": "78.157.40.105",
-        "server_port": 28222,
-        "password": "QuY5J4qbFXht9dm8",
-        "method": "aes-256-gcm",
-        "remarks": "France [FR 6] @ResistalProxy"
-    },
-    {
         "server": "212.38.189.174",
         "server_port": 8091,
         "password": "PCnnH6SQSnfoS27",
         "method": "aes-256-gcm",
         "remarks": "United Kingdom [GB 1] @ResistalProxy"
+    },
+    {
+        "server": "82.145.41.125",
+        "server_port": 3306,
+        "password": "Y6R9pAtvxxzmGC",
+        "method": "aes-256-gcm",
+        "remarks": "United Kingdom [GB 2] @ResistalProxy"
+    },
+    {
+        "server": "172.99.190.61",
+        "server_port": 443,
+        "password": "pKEW8JPByTVTLtM",
+        "method": "aes-256-gcm",
+        "remarks": "United Kingdom [GB 3] @ResistalProxy"
     },
     {
         "server": "62.216.92.167",
@@ -168,25 +203,11 @@
         "remarks": "Russian Federation [RU 4] @ResistalProxy"
     },
     {
-        "server": "159.223.50.45",
-        "server_port": 2017,
-        "password": "adminss",
-        "method": "aes-256-gcm",
-        "remarks": "Singapore [SG 1] @ResistalProxy"
-    },
-    {
         "server": "81.90.189.152",
         "server_port": 805,
         "password": "G!yBwPWH3Vao",
         "method": "chacha20-ietf-poly1305",
-        "remarks": "Singapore [SG 2] @ResistalProxy"
-    },
-    {
-        "server": "194.124.35.40",
-        "server_port": 804,
-        "password": "G!yBwPWH3Vao",
-        "method": "chacha20-ietf-poly1305",
-        "remarks": "Singapore [SG 3] @ResistalProxy"
+        "remarks": "Singapore [SG 1] @ResistalProxy"
     },
     {
         "server": "212.68.55.11",
@@ -194,6 +215,20 @@
         "password": "hg49$WH8943g3",
         "method": "aes-256-gcm",
         "remarks": "Turkey [TR 1] @ResistalProxy"
+    },
+    {
+        "server": "gy.ziqiyun.xyz",
+        "server_port": 47795,
+        "password": "59836db8-6e5f-4b8b-aa1e-3963f9d9c923",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "Taiwan [TW 1] @ResistalProxy"
+    },
+    {
+        "server": "zh01lv5tw03.feiguayun.xyz",
+        "server_port": 31187,
+        "password": "6f8ebe83-8910-4106-9dc4-18a41cc20ed4",
+        "method": "aes-256-gcm",
+        "remarks": "Taiwan [TW 2] @ResistalProxy"
     },
     {
         "server": "176.103.61.162",
@@ -224,10 +259,10 @@
         "remarks": "United States [US 2] @ResistalProxy"
     },
     {
-        "server": "164.92.107.59",
-        "server_port": 1645,
-        "password": "3f411e87-3e93-4f23-bc22-263a748bc8c5",
-        "method": "chacha20-ietf-poly1305",
+        "server": "167.88.62.68",
+        "server_port": 3389,
+        "password": "Y6R9pAtvxxzmGC",
+        "method": "aes-256-gcm",
         "remarks": "United States [US 3] @ResistalProxy"
     },
     {
@@ -257,5 +292,68 @@
         "password": "G!yBwPWH3Vao",
         "method": "chacha20-ietf-poly1305",
         "remarks": "United States [US 7] @ResistalProxy"
+    },
+    {
+        "server": "38.91.100.207",
+        "server_port": 3389,
+        "password": "Y6R9pAtvxxzmGC",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 8] @ResistalProxy"
+    },
+    {
+        "server": "167.88.63.82",
+        "server_port": 6679,
+        "password": "TEzjfAYq2IjtuoS",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 9] @ResistalProxy"
+    },
+    {
+        "server": "38.114.114.69",
+        "server_port": 443,
+        "password": "pKEW8JPByTVTLtM",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 10] @ResistalProxy"
+    },
+    {
+        "server": "167.88.63.79",
+        "server_port": 5601,
+        "password": "Y6R9pAtvxxzmGC",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 11] @ResistalProxy"
+    },
+    {
+        "server": "167.88.63.59",
+        "server_port": 8080,
+        "password": "KixLvKzwjekG00rm",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 12] @ResistalProxy"
+    },
+    {
+        "server": "38.86.135.169",
+        "server_port": 8000,
+        "password": "KixLvKzwjekG00rm",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 13] @ResistalProxy"
+    },
+    {
+        "server": "92.38.176.81",
+        "server_port": 811,
+        "password": "Ultr@r00t_2017",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "United States [US 14] @ResistalProxy"
+    },
+    {
+        "server": "138.68.248.130",
+        "server_port": 811,
+        "password": "Ultr@r00t_2017",
+        "method": "chacha20-ietf-poly1305",
+        "remarks": "United States [US 15] @ResistalProxy"
+    },
+    {
+        "server": "164.92.99.255",
+        "server_port": 4649,
+        "password": "3f411e87-3e93-4f23-bc22-263a748bc8c5",
+        "method": "aes-256-gcm",
+        "remarks": "United States [US 16] @ResistalProxy"
     }
 ]
